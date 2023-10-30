@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-29T11:35:10Z" name="HRMS Test Suite" finished-at="2023-10-29T11:38:15Z" duration-ms="184593">
+    <groups>
+    </groups>
+    <test started-at="2023-10-29T11:35:10Z" name="HRMS Test Case1" finished-at="2023-10-29T11:38:15Z" duration-ms="184593">
+      <class name="com.hrms.qa.testcases.PIMPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:05:27Z" name="setUp" finished-at="2023-10-29T17:05:40Z" duration-ms="13859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNameTextBoxes()[pri:1, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:05:40Z" name="verifyNameTextBoxes" finished-at="2023-10-29T17:05:41Z" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameTextBoxes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:05:41Z" name="tearDown" finished-at="2023-10-29T17:05:43Z" duration-ms="2320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:05:58Z" name="setUp" finished-at="2023-10-29T17:06:12Z" duration-ms="13776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySaveButton()[pri:2, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:06:12Z" name="verifySaveButton" finished-at="2023-10-29T17:06:12Z" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySaveButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:06:12Z" name="tearDown" finished-at="2023-10-29T17:06:14Z" duration-ms="2302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:06:34Z" name="setUp" finished-at="2023-10-29T17:06:48Z" duration-ms="13771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddEmployee(java.lang.String, java.lang.String)[pri:3, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:06:48Z" name="verifyAddEmployee" data-provider="getHrmsTestData" finished-at="2023-10-29T17:06:51Z" duration-ms="3195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:06:51Z" name="tearDown" finished-at="2023-10-29T17:06:54Z" duration-ms="2357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:06:54Z" name="setUp" finished-at="2023-10-29T17:07:08Z" duration-ms="14050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddEmployee(java.lang.String, java.lang.String)[pri:3, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:07:08Z" name="verifyAddEmployee" data-provider="getHrmsTestData" finished-at="2023-10-29T17:07:11Z" duration-ms="3159" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cris]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:07:11Z" name="tearDown" finished-at="2023-10-29T17:07:13Z" duration-ms="2374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:07:13Z" name="setUp" finished-at="2023-10-29T17:07:27Z" duration-ms="13528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddEmployee(java.lang.String, java.lang.String)[pri:3, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:07:27Z" name="verifyAddEmployee" data-provider="getHrmsTestData" finished-at="2023-10-29T17:07:30Z" duration-ms="2896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mukta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.PIMPageTest@7ce3cb8e]" started-at="2023-10-29T17:07:30Z" name="tearDown" finished-at="2023-10-29T17:07:32Z" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrms.qa.testcases.PIMPageTest -->
+      <class name="com.hrms.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:05:10Z" name="setUp" finished-at="2023-10-29T17:05:16Z" duration-ms="5448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginPageTitle()[pri:1, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:05:16Z" name="validateLoginPageTitle" finished-at="2023-10-29T17:05:16Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:05:16Z" name="tearDown" finished-at="2023-10-29T17:05:16Z" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:05:43Z" name="setUp" finished-at="2023-10-29T17:05:47Z" duration-ms="4015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateIntroTxt()[pri:2, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:05:47Z" name="validateIntroTxt" finished-at="2023-10-29T17:05:47Z" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateIntroTxt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:05:47Z" name="tearDown" finished-at="2023-10-29T17:05:47Z" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:06:14Z" name="setUp" finished-at="2023-10-29T17:06:18Z" duration-ms="3839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:06:18Z" name="loginTest" finished-at="2023-10-29T17:06:22Z" duration-ms="4442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.LoginPageTest@6ef888f6]" started-at="2023-10-29T17:06:22Z" name="tearDown" finished-at="2023-10-29T17:06:22Z" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrms.qa.testcases.LoginPageTest -->
+      <class name="com.hrms.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:05:16Z" name="setUp" finished-at="2023-10-29T17:05:24Z" duration-ms="8079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPageTitle()[pri:1, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:05:24Z" name="verifyPageTitle" finished-at="2023-10-29T17:05:24Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:05:24Z" name="tearDown" finished-at="2023-10-29T17:05:27Z" duration-ms="2378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:05:47Z" name="setUp" finished-at="2023-10-29T17:05:55Z" duration-ms="8247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUsername()[pri:2, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:05:55Z" name="verifyUsername" finished-at="2023-10-29T17:05:55Z" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:05:55Z" name="tearDown" finished-at="2023-10-29T17:05:58Z" duration-ms="2325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:06:22Z" name="setUp" finished-at="2023-10-29T17:06:31Z" duration-ms="8024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAdminLink()[pri:3, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:06:31Z" name="verifyAdminLink" finished-at="2023-10-29T17:06:31Z" duration-ms="737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:06:31Z" name="tearDown" finished-at="2023-10-29T17:06:34Z" duration-ms="2323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:07:32Z" name="setUp" finished-at="2023-10-29T17:07:40Z" duration-ms="8017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPimLink()[pri:4, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:07:40Z" name="verifyPimLink" finished-at="2023-10-29T17:07:41Z" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPimLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:07:41Z" name="tearDown" finished-at="2023-10-29T17:07:43Z" duration-ms="2316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:07:43Z" name="setUp" finished-at="2023-10-29T17:07:51Z" duration-ms="7567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLeaveLink()[pri:5, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:07:51Z" name="verifyLeaveLink" finished-at="2023-10-29T17:07:52Z" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLeaveLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:07:52Z" name="tearDown" finished-at="2023-10-29T17:07:54Z" duration-ms="2337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:07:54Z" name="setUp" finished-at="2023-10-29T17:08:02Z" duration-ms="7382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifClickCheckBox()[pri:6, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:08:02Z" name="verifClickCheckBox" finished-at="2023-10-29T17:08:13Z" duration-ms="10814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifClickCheckBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrms.qa.testcases.HomePageTest@10e92f8f]" started-at="2023-10-29T17:08:13Z" name="tearDown" finished-at="2023-10-29T17:08:15Z" duration-ms="2343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrms.qa.testcases.HomePageTest -->
+    </test> <!-- HRMS Test Case1 -->
+  </suite> <!-- HRMS Test Suite -->
+</testng-results>

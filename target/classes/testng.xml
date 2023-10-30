@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HRMS Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.hrms.extentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="HRMS Test Case1">
+		<classes>
+		 <class name="com.hrms.qa.testcases.LoginPageTest"></class>
+		 <class name="com.hrms.qa.testcases.HomePageTest"></class>
+		<class name="com.hrms.qa.testcases.PIMPageTest"></class>
+		</classes>
+	</test>
+</suite>
+
+
+
+
+
+<!-- <class name="com.hrms.qa.testcases.HomePageTest"></class>
+		<class name="com.hrms.qa.testcases.PIMPageTest"></class> -->
