@@ -34,10 +34,10 @@ public class HomePageTest extends TestBase {
 		initialization();
 		loginPage = new LoginPage();
 		adminPage = new AdminPage();
-		pimPage = new PIMPage();
+		pimPage   = new PIMPage();
 		leavePage = new LeavePage();
 		homePage  = new HomePage();
-		homePage = loginPage.login(prop.getProperty("Username"), prop.getProperty("Password"));
+		homePage  = loginPage.login(prop.getProperty("Username"), prop.getProperty("Password"));
 		
 	}
 	
